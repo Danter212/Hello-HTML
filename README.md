@@ -9,6 +9,6 @@ En la siguiente foto esta el resultado:
 
 **Lineas de instrucción**
 
-*apt get install git* sirve para instalar la herramienta git
+*apt get install git*    |sirve para instalar la herramienta git
 
-*git clone (página web)* sirve para descargar el archivo
+*git clone (página web)* |sirve para descargar el archivo
